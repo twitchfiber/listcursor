@@ -1,0 +1,10 @@
+#list {
+    list-style: none;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px;
+    font-size: 1.5em;
+}
+
+.highlight {
+    background-color: gainsboro;
+}
